@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DZFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_sec_frag">Send message</string>
+    <string name="bt_read">Read</string>
+    <string name="message_one">Message: 1</string>
+    <string name="message_read">All messages is read</string>
+</resources>
